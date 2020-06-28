@@ -2,7 +2,8 @@
 
 O Conversor de Moedas para conversões entre moedas Euro(€), Dolar(US$) e Reais(R$) com base em dados diários fornecidos pela api [HG Finance API](https://hgbrasil.com/status/finance).
 
-## Getting Started
+## Conteudo do curso
+
 - Introdução ao app conversor de moedas
 - Conheça o Padrão JSON
 - API de Valores
